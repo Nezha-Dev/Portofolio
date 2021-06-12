@@ -1,0 +1,29 @@
+/* Template Name: Nezha-Dev | Portofolio Website
+   Penulis: Nezha-Dev
+   Email: rizkydeveloper@gmail.com
+   Dibuat: 13 Juni 2021
+   Versi: 1.0
+   Diperbarui: 13 Juni 2021
+   Deskripsi File: Fill CSS Utama dari Website
+*/
+
+/*********************************/
+.section {
+  padding-top: 5rem;
+}
+
+.hero {
+  padding-top: 8rem;
+  background-color: #e5e5ff;
+}
+
+#projects {
+  background-color: #e5e5ff;
+}
+
+#btn-kembali {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+}
